@@ -1,7 +1,5 @@
 <p align="center">
-  
-![Logo](https://i.postimg.cc/TYKTvChV/Logo.png)
-
+<img src="https://i.postimg.cc/TYKTvChV/Logo.png)"
 </p>
 
 <p align="center">
@@ -20,10 +18,9 @@ A collection of characters I decided on making from the Kill La Kill series that
 # <ins>Characters</ins> 
 
 </p>
-<p align="center">
-  
-![rko](https://i.postimg.cc/gJSVTXGb/InfoCard.png) ![mko](https://i.postimg.cc/hjyL5zc6/InfoCard_Mako.png) [![InfoCard_Satsuki.png](https://i.postimg.cc/ydQmbgsM/InfoCard_Satsuki.png)](https://postimg.cc/LYPgqsqD) [![InfoCard_Nonon.png](https://i.postimg.cc/NMJ6z9Qh/InfoCard_Nonon.png)](https://postimg.cc/gXhLw0w4)
 
+<p align="center">
+<img src="https://i.postimg.cc/gJSVTXGb/InfoCard.png" <img src="https://i.postimg.cc/hjyL5zc6/InfoCard_Mako.png" <img src="https://i.postimg.cc/ydQmbgsM/InfoCard_Satsuki.png" <img src="https://i.postimg.cc/NMJ6z9Qh/InfoCard_Nonon.png"
 </p>
 <hr>
 
