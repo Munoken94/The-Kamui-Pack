@@ -7,4 +7,4 @@ A collection of characters I decided on making from the Kill La Kill series that
 <hr>
 
 # <ins>Characters</ins> 
-![rko](https://i.postimg.cc/gJSVTXGb/InfoCard.png)​
+![rko](https://i.postimg.cc/gJSVTXGb/InfoCard.png) ![mko](https://i.postimg.cc/hjyL5zc6/InfoCard_Mako.png) [![InfoCard_Satsuki.png](https://i.postimg.cc/ydQmbgsM/InfoCard_Satsuki.png)](https://postimg.cc/LYPgqsqD)​
