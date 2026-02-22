@@ -11,20 +11,8 @@ A collection of characters I decided on making from the Kill La Kill series that
 
 # <ins>Characters</ins> 
 
-<p align="center">
-<img src="https://i.postimg.cc/gJSVTXGb/InfoCard.png" 
-</p> 
-<p align="center">
-<img src="https://i.postimg.cc/hjyL5zc6/InfoCard_Mako.png" 
-</p>
-<p align="center">
-<img src="https://i.postimg.cc/ydQmbgsM/InfoCard_Satsuki.png" 
-</p>
-<p align="center">
-<img src="https://i.postimg.cc/NMJ6z9Qh/InfoCard_Nonon.png"
-</p>
-<h<p align="center">r>
-
+[![InfoCard.png](https://i.postimg.cc/gJSVTXGb/InfoCard.png)](https://postimg.cc/HcM8JLJ6) [![InfoCard_Mako.png](https://i.postimg.cc/hjyL5zc6/InfoCard_Mako.png)](https://postimg.cc/0MSK6N60) [![InfoCard_Satsuki.png](https://i.postimg.cc/ydQmbgsM/InfoCard_Satsuki.png)](https://postimg.cc/LYPgqsqD) [![InfoCard_Nonon.png](https://i.postimg.cc/NMJ6z9Qh/InfoCard_Nonon.png)](https://postimg.cc/gXhLw0w4)
+<hr>
 
 # <ins align="center">Extra Details</ins> 
 <p align="center">
@@ -32,6 +20,7 @@ As far as extra details go, This pack comes in multiple variants. One featuring 
 <br>
 <br>
 That being said, You can grab the version of your choosing provided in the download tab at the top of this post.
+<br>
 <br>
 Have Fun!
 </p>​
