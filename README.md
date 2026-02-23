@@ -11,7 +11,6 @@ A collection of characters I decided on making from the Kill La Kill series that
 # Characters
 
 [![InfoCard.png](https://i.postimg.cc/gJSVTXGb/InfoCard.png)](https://postimg.cc/HcM8JLJ6) [![InfoCard_Mako.png](https://i.postimg.cc/hjyL5zc6/InfoCard_Mako.png)](https://postimg.cc/0MSK6N60) [![InfoCard_Satsuki.png](https://i.postimg.cc/ydQmbgsM/InfoCard_Satsuki.png)](https://postimg.cc/LYPgqsqD) [![InfoCard_Nonon.png](https://i.postimg.cc/NMJ6z9Qh/InfoCard_Nonon.png)](https://postimg.cc/gXhLw0w4)
-<hr>
 
 # Extra Details
 <p align="left">
