@@ -14,7 +14,7 @@ A collection of characters I decided on making from the Kill La Kill series that
 
 # Extra Details
 <p align="left">
-This pack comes in multiple variants. One featuring English voice lines and the other featuring their Japanese Voices. I should also note that there is also a SRB2Kart variant available as well to those who are still active playing it with the caveat of my version of Ryuko and Satsuki being excluded as Lat's version of them is still available on the <a href="https://mb.srb2.org/threads/v7-animechars-dot-pk3.26238/">SRB2 Message Boards</a>.
+This pack comes in multiple variants with the inclusion of thier English and Japanese Voice lines. I should also note that there is also a SRB2Kart variant available as well to those who are still actively playing it with the caveat of my version of Ryuko and Satsuki being excluded as Lat's version of them is still available on the <a href="https://mb.srb2.org/threads/v7-animechars-dot-pk3.26238/">SRB2 Message Boards</a>. I may decide to make Kart variants of them at some point but for the time being, I'll be keeping everything as is.
 <br>
 <br>
 That being said, You can grab the version of your choosing provided at the top of this readme.
