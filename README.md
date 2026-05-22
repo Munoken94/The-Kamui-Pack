@@ -10,11 +10,11 @@ A collection of characters I decided on making from the Kill La Kill series that
 
 # Characters
 
-[![InfoCard.png](https://i.postimg.cc/gJSVTXGb/InfoCard.png)](https://postimg.cc/HcM8JLJ6) [![InfoCard_Mako.png](https://i.postimg.cc/hjyL5zc6/InfoCard_Mako.png)](https://postimg.cc/0MSK6N60) [![InfoCard_Satsuki.png](https://i.postimg.cc/ydQmbgsM/InfoCard_Satsuki.png)](https://postimg.cc/LYPgqsqD) [![InfoCard_Nonon.png](https://i.postimg.cc/NMJ6z9Qh/InfoCard_Nonon.png)](https://postimg.cc/gXhLw0w4)
+[![Info-Card.png](https://i.postimg.cc/yNQLB1Nb/Info-Card.png)](https://postimg.cc/3yGXFHmX) [![Info-Card-Mako.png](https://i.postimg.cc/CKPcYhKt/Info-Card-Mako.png)](https://postimg.cc/d7C2jKrm) [![Info-Card-Satsuki.png](https://i.postimg.cc/q7b10J7S/Info-Card-Satsuki.png)](https://postimg.cc/5HzBSMLS) [![InfoCard_Nonon.png](https://i.postimg.cc/NMJ6z9Qh/InfoCard_Nonon.png)](https://postimg.cc/gXhLw0w4)
 
 # Extra Details
 <p align="left">
-This pack comes in multiple variants with the inclusion of thier English and Japanese Voice lines. I should also note that there is also a SRB2Kart variant available as well to those who are still actively playing it with the caveat of my version of Ryuko and Satsuki being excluded as Lat's version of them is still available on the <a href="https://mb.srb2.org/threads/v7-animechars-dot-pk3.26238/">SRB2 Message Boards</a>. I may decide to make Kart variants of them at some point but for the time being, I'll be keeping everything as is.
+This pack comes in multiple variants with the inclusion of thier English and Japanese Voice lines. I'll be adding more characters from the series down the line as time progresses so do stay tuned for more of what will be in store for the pack itself.
 <br>
 <br>
 That being said, You can grab the version of your choosing provided at the top of this readme.
