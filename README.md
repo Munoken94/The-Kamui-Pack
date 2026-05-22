@@ -14,10 +14,7 @@ A collection of characters I decided on making from the Kill La Kill series that
 
 # Extra Details
 <p align="left">
-This pack comes in multiple variants with the inclusion of thier English and Japanese Voice lines. I'll be adding more characters from the series down the line as time progresses so do stay tuned for more of what will be in store for the pack itself.
-<br>
-<br>
-That being said, You can grab the version of your choosing provided at the top of this readme.
+This pack comes in multiple variants with the inclusion of thier English and Japanese Voice lines, As well as Individuals to those who prefer to play a specific character of thier choosing. That being said, You can grab the version of your choosing provided at the top of this readme.
 <br>
 <br>
 Have Fun!
