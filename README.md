@@ -10,7 +10,7 @@ A collection of characters I decided on making from the Kill La Kill series that
 
 # Characters
 
-[![Info-Card.png](https://i.postimg.cc/yNQLB1Nb/Info-Card.png)](https://postimg.cc/3yGXFHmX) [![Info-Card-Mako.png](https://i.postimg.cc/CKPcYhKt/Info-Card-Mako.png)](https://postimg.cc/d7C2jKrm) [![Info-Card-Satsuki.png](https://i.postimg.cc/q7b10J7S/Info-Card-Satsuki.png)](https://postimg.cc/5HzBSMLS) [![InfoCard_Nonon.png](https://i.postimg.cc/NMJ6z9Qh/InfoCard_Nonon.png)](https://postimg.cc/gXhLw0w4)
+[![CardInfo-Ryuko.png](https://i.postimg.cc/NFfYzqxM/CardInfo-Ryuko.png)](https://postimg.cc/S25wnP3F) [![Info-Card-Mako.png](https://i.postimg.cc/CKPcYhKt/Info-Card-Mako.png)](https://postimg.cc/d7C2jKrm) [![CardInfo-Satsuki.png](https://i.postimg.cc/d3tvxP93/CardInfo-Satsuki.png)](https://postimg.cc/sQ8tMLqC) [![InfoCard_Nonon.png](https://i.postimg.cc/NMJ6z9Qh/InfoCard_Nonon.png)](https://postimg.cc/gXhLw0w4)
 
 # Extra Details
 <p align="left">
