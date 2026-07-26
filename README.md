@@ -10,7 +10,7 @@ A collection of characters I decided on making from the Kill La Kill series that
 
 # Characters
 
-[![CardInfo-Ryuko.png](https://i.postimg.cc/NFfYzqxM/CardInfo-Ryuko.png)](https://postimg.cc/S25wnP3F) [![Info-Card-Mako.png](https://i.postimg.cc/CKPcYhKt/Info-Card-Mako.png)](https://postimg.cc/d7C2jKrm) [![CardInfo-Satsuki.png](https://i.postimg.cc/d3tvxP93/CardInfo-Satsuki.png)](https://postimg.cc/sQ8tMLqC) [![InfoCard_Nonon.png](https://i.postimg.cc/NMJ6z9Qh/InfoCard_Nonon.png)](https://postimg.cc/gXhLw0w4)
+[![68747470733a2f2f692e706f7374696d672e63632f4e4666597a71784d2f43617264496e666f2d5279756b6f2e706e67.png](https://i.postimg.cc/j2ykxvXR/68747470733a2f2f692e706f7374696d672e63632f4e4666597a71784d2f43617264496e666f2d5279756b6f2e706e67.png)](https://postimg.cc/PvrMKW97) [![68747470733a2f2f692e706f7374696d672e63632f434b506359684b742f496e666f2d436172642d4d616b6f2e706e67.png](https://i.postimg.cc/qq2ZJQLB/68747470733a2f2f692e706f7374696d672e63632f434b506359684b742f496e666f2d436172642d4d616b6f2e706e67.png)](https://postimg.cc/vxHvXrkC) [![68747470733a2f2f692e706f7374696d672e63632f64337476785039332f43617264496e666f2d53617473756b692e706e67.png](https://i.postimg.cc/mk76LVwB/68747470733a2f2f692e706f7374696d672e63632f64337476785039332f43617264496e666f2d53617473756b692e706e67.png)](https://postimg.cc/ct4cTR2b) [![68747470733a2f2f692e706f7374696d672e63632f4e4d4a367a3951682f496e666f436172645f4e6f6e6f6e2e706e67.png](https://i.postimg.cc/6qC1Wz0K/68747470733a2f2f692e706f7374696d672e63632f4e4d4a367a3951682f496e666f436172645f4e6f6e6f6e2e706e67.png)](https://postimg.cc/rRF9g13Z)
 
 # Extra Details
 <p align="left">
