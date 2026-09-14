@@ -14,7 +14,7 @@ A collection of Characters and Followers I decided on making from the Kill La Ki
 
 # Followers
 
-[![Ryuko-Chibi-Show.png](https://i.postimg.cc/hj4pBfqh/Ryuko-Chibi-Show.png)](https://postimg.cc/QBPpgNCr) [![ringracers0000.gif](https://i.postimg.cc/fLWBNJh9/ringracers0000.gif)](https://postimg.cc/VSTj9svf)
+[![Ryuko-Chibi-Show.png](https://i.postimg.cc/hj4pBfqh/Ryuko-Chibi-Show.png)](https://postimg.cc/QBPpgNCr) 
 
 # Extra Details
 <p align="left">
