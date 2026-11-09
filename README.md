@@ -10,11 +10,11 @@ A collection of Characters and Followers I decided on making from the Kill La Ki
 
 # Characters
 
-[![687474-1.png](https://i.postimg.cc/ZKvHdkkv/687474-1.png)](https://postimg.cc/QHs12ydj) [![68747470733a2f2f692e706f7374696d672e63632f434b506359684b742f496e666f2d436172642d4d616b6f2e706e67.png](https://i.postimg.cc/qq2ZJQLB/68747470733a2f2f692e706f7374696d672e63632f434b506359684b742f496e666f2d436172642d4d616b6f2e706e67.png)](https://postimg.cc/vxHvXrkC) [![68747470733a2f2f692e706f7374696d672e63632f64337476785039332f43617264496e666f2d53617473756b692e706e67.png](https://i.postimg.cc/mk76LVwB/68747470733a2f2f692e706f7374696d672e63632f64337476785039332f43617264496e666f2d53617473756b692e706e67.png)](https://postimg.cc/ct4cTR2b) [![687474-2.png](https://i.postimg.cc/xTN5zrrb/687474-2.png)](https://postimg.cc/MvxVCFpW)
+[![Stat-Card-New-rko.png](https://i.postimg.cc/K8GgrpVw/Stat-Card-New-rko.png)](https://postimg.cc/svLX3m34) [![Stat-Card-New-stki.png](https://i.postimg.cc/9QmqtgSv/Stat-Card-New-stki.png)](https://postimg.cc/GHf2bKbQ) [![Stat-Card-New-mko.png](https://i.postimg.cc/13mNc7T7/Stat-Card-New-mko.png)](https://postimg.cc/N5nMQDQR) [![Stat-Card-New-nnon.png](https://i.postimg.cc/4xfhb2MF/Stat-Card-New-nnon.png)](https://postimg.cc/xcZC959K)
 
 # Followers
 
-[![Ryuko-Chibi-Show.png](https://i.postimg.cc/hj4pBfqh/Ryuko-Chibi-Show.png)](https://postimg.cc/QBPpgNCr) 
+[![Rko-Ch-Bi.png](https://i.postimg.cc/7ZHTMtc9/Rko-Ch-Bi.png)](https://postimg.cc/YhP9tRtL)
 
 # Extra Details
 <p align="left">
