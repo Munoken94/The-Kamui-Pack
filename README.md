@@ -10,7 +10,7 @@ A collection of Characters and Followers I decided on making from the Kill La Ki
 
 # Characters
 
-[![Stat-Card-New-rko.png](https://i.postimg.cc/K8GgrpVw/Stat-Card-New-rko.png)](https://postimg.cc/svLX3m34) [![Stat-Card-New-stki.png](https://i.postimg.cc/9QmqtgSv/Stat-Card-New-stki.png)](https://postimg.cc/GHf2bKbQ) [![Stat-Card-New-mko.png](https://i.postimg.cc/13mNc7T7/Stat-Card-New-mko.png)](https://postimg.cc/N5nMQDQR) [![Stat-Card-New-nnon.png](https://i.postimg.cc/4xfhb2MF/Stat-Card-New-nnon.png)](https://postimg.cc/xcZC959K)
+[![Stat-Card-New-rko-large.png](https://i.postimg.cc/bJSss4n0/Stat-Card-New-rko-large.png)](https://postimg.cc/2bmztc23) [![Stat-Card-New-stki.png](https://i.postimg.cc/9QmqtgSv/Stat-Card-New-stki.png)](https://postimg.cc/GHf2bKbQ) [![Stat-Card-New-mko.png](https://i.postimg.cc/13mNc7T7/Stat-Card-New-mko.png)](https://postimg.cc/N5nMQDQR) [![Stat-Card-New-nnon.png](https://i.postimg.cc/4xfhb2MF/Stat-Card-New-nnon.png)](https://postimg.cc/xcZC959K)
 
 # Followers
 
