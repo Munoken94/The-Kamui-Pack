@@ -18,7 +18,12 @@ A collection of Characters and Followers I decided on making from the Kill La Ki
 
 # Extra Details
 <p align="left">
-In addition to the main package, I've also provided an optional voice pack that gives everyone their Japanese Voice lines, As well as Individuals to those who prefer to play a specific character of their choosing. That being said, You can grab whatever version you plan to use provided in Releases.
+In addition to the main package, I've also provided an optional voice pack that gives everyone their Japanese Voice lines, As well as Individuals to those who prefer to play a specific character of their choosing.​
+</p>
+
+# Warning
+<p align="left">
+Upon further testing between myself and pikaspoop, It's come to our attention that the <a href="https://mb.srb2.org/addons/lightweight-custom-death-sounds.9299/">CDS Lua script</a> currently has conflicts with the <a href = "https://github.com/blondedradio/RadioRacers">RadioRacers Build</a> of the game causing everyone's death sounds to be replaced with some of the base game sound effects or otherwise replaced with voice lines from the vanilla roster. With this in mind, It is recommended to use the <strong>"Base"</strong> versions of the Kamui Pack that'll come packaged within the first two ZIP files that removes it as to prevent this conflict from happening otherwise.
 <br>
 <br>
 Have Fun!
